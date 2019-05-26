@@ -125,3 +125,8 @@ http://ac.scmor.com/
 
 
 ![_config.yml]({{ site.baseurl }}/images/huawei.jpeg)
+
+## **[过劳时代](https://book.douban.com/subject/30268916/) （网络词汇） **
+过劳时代，是指在高度竞争是超越个体选择的时代大背景，过度加班已经成为导致职场年轻人[过劳死](https://baike.baidu.com/item/%E8%BF%87%E5%8A%B3%E6%AD%BB/97896)的重要原因，而中国的过劳死人数已达60万人，加班常态化已经成为一个特殊的时代特征。
+
+![_config.yml]({{ site.baseurl }}/images/glsd.jpg)
