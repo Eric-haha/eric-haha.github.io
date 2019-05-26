@@ -17,7 +17,7 @@ Are you OK???
 ### QQ
 [2755131051](https://blog.eunji.cn/music/music.html)
 
-#### Thank for visiting!!!!!
+#### **[thanks for visiting](https://aidn.jp/mikuwarp/)**
 
 ![_config.yml]({{ site.baseurl }}/images/ha.jpg)
 
