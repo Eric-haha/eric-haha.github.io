@@ -15,7 +15,7 @@ Are you OK???
 [doreanmon@yahoo.com](mailto:doreanmon@yahoo.com)
 
 ### QQ
-[2755131051](www.qq.com)
+[2755131051](https://blog.eunji.cn/music/music.html)
 
 #### Thank for visiting!!!!!
 
