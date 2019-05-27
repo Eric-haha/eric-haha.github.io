@@ -25,12 +25,12 @@ layout: default
     var gitalk = new Gitalk({
 
     // gitalk的主要参数
-		clientID: ed83418b39c848ae89c6,
-		clientSecret: 0fc40881d7da0ee8e46cab73a38fc39d134cb832,
-		repo: eric-haha.github.io,
-		owner: Eric-haha,
-		admin: [Eric-xin,Eric-haha,Eric-hello],
-	    	id: hello,
+		clientID: `Github Application clientID`,
+		clientSecret: `Github Application clientSecret`,
+		repo: `存储你评论 issue 的 Github 仓库名`,
+		owner: 'Github 用户名',
+		admin: ['Github 用户名'],
+		id: '页面的唯一标识，gitalk会根据这个标识自动创建的issue的标签',
     
     });
     gitalk.render('gitalk-container');
